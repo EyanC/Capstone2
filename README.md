@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+The initial creation of Ruby proved to be difficult when I was attempting to install rails on a Mac OS. After the install and the completion of the app, I attempted to add a user log-in and authentification, but it broke my app, and I Ruby changes so much so fast; I created a new app from scratch. 
